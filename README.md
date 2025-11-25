@@ -1,5 +1,7 @@
----
+### Deep-Learning Stand Alone
 
+
+---
 This repository provides a collection of Python scripts demonstrating fundamental deep learning models built and trained using the **MNIST dataset**. Each script is designed to be executed independently.
 
 | Model Type | Description | Execution Command |
