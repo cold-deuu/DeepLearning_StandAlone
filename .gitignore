@@ -1,0 +1,7 @@
+__pycache__/
+
+Learning_NN/MNiST/
+
+Learning_NN/.*pth
+Learning_NN/inference_vae.py
+
